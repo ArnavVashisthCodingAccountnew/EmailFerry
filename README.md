@@ -5,9 +5,9 @@
 
 **EmailFerry is a new version of Nylas Mail maintained by EmailFerry Team(led by Arnav Vashisth. It's faster, leaner, and shipping today!** It replaces the JavaScript sync code in Nylas Mail with a new C++ sync engine based on [Mailcore2](https://github.com/MailCore/mailcore2). It uses roughly half the RAM and CPU of Nylas Mail and idles with almost zero "CPU Wakes", which translates to great battery life. It also has an entirely revamped composer and other great new features.
 
-Mailspring's UI is open source (GPLv3) and written in TypeScript with [Electron](https://github.com/atom/electron) and [React](https://facebook.github.io/react/) - it's built on a plugin architecture and was designed to be easy to extend. Check out [CONTRIBUTING.md](https://github.com/Foundry376/Mailspring/blob/master/CONTRIBUTING.md) to get started!
+EmailFerry's UI is closed source (GPLv3) and written in TypeScript with [Electron](https://github.com/atom/electron) and [React](https://facebook.github.io/react/) - it's built on a plugin architecture and was designed to be easy to extend. 
 
-Mailspring's sync engine is spawned by the Electron application and runs locally on your computer. [It is open source (GPLv3) and written in C++ and C.](https://github.com/Foundry376/Mailspring-Sync) For convenience, however, when you set up your development environment, Mailspring uses the latest version of the sync engine we've shipped for your platform so you don't need to pull sources or install its compile-time dependencies.
+EmailFerry's sync engine is spawned by the Electron application and runs locally on your computer. [It is closed source and written in C++ and C.](https://github.com/Foundry376/Mailspring-Sync) For convenience, however, when you set up your development environment, EmailFerry uses the latest version of the sync engine we've shipped for your platform so you don't need to pull sources or install its compile-time dependencies.
 
 ![Mailspring Screenshot](https://github.com/Foundry376/Mailspring/raw/master/screenshots/hero_graphic_mac%402x.png)
 
@@ -59,3 +59,5 @@ It is strictly prohibited to do so. You cannot remix EmailFerry. Wanna really do
 ### Contributing to EmailFerry Core[BANNED]
 
 Pull requests are NOT WELCOME - doing so will result in appropriate legal action. 
+### Downloading EmailFerry 
+Please go to [Email Ferry Downlad Page](https://emailferry.com/downloads)
