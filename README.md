@@ -17,7 +17,7 @@ Mailspring comes packed with powerful features like Unified Inbox, Snooze, Send
 Later, Mail Rules, Templates and more. Mailspring Pro, which you can unlock
 with a monthly subscription, adds even more features for people who send a ton
 of email: link tracking, read receipts, mailbox analytics, contact and company
-profiles. **All of these features run in the client - Mailspring does not send
+profiles. **All of these features run in the client - EmailFerry  does not send
 your email credentials to the cloud.** 
 
 **Coming Soon Features:
