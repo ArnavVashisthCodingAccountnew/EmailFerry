@@ -49,7 +49,7 @@ It is strictly prohibited to do so. You cannot remix EmailFerry. Wanna really do
 
 
 
-### Building Mailspring
+### Building EmailFerry
 
 Kindly note that:
 
